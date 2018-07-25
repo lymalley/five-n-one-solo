@@ -1,1 +1,5 @@
 export const SET_COLORS = 'SET_COLORS'
+export const CHG_CURRENT_COLOR = 'CHG_CURRENT_COLOR'
+export const IS_FETCHING = 'IS_FETCHING'
+export const DONE_FETCHING = 'DONE_FETCHING'
+export const RESET_COLOR_FORM = 'RESET_COLOR_FORM'
